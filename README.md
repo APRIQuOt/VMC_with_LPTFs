@@ -1,4 +1,4 @@
-# NN-QSR
+# Code accompanying the paper "Variational Monte Carlo with the Large Patched Transformer"
 
 ## Requirements
 A suitable [conda](https://conda.io/) environment named `qsr` can be created
