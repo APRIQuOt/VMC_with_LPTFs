@@ -1,4 +1,4 @@
-# Code accompanying the paper "Variational Monte Carlo with the Large Patched Transformer"
+# Code accompanying the paper "Variational Monte Carlo with Large Patched Transformers"
 
 ## Requirements
 A suitable [conda](https://conda.io/) environment named `qsr` can be created
